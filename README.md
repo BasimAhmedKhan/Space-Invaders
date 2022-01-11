@@ -1,5 +1,5 @@
 # Space-Invaders
-## Space Invaders Game created in Java on Eclipse without ant Game Engine.
+## Space Invaders Game created in Java on Eclipse without any Game Engine.
 ## Feel Free to Ask any Questions on my <a href="mailto:kbasim039@gmail.com">Email ✉️</a>
 ## If You Like it Show it by Giving a Star⭐️.
 ### Working of Game!
